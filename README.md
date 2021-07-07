@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CristobalSantisteban
-- 👀 I’m interested in music (mostly rock bu I love everything from Schubert to Kellerkind), sports (big fan of football and baseball), reading (recently going through a French classics phase)
-- 🌱 I’m currently learning the very basics of python
+- 👀 I’m interested in music (mostly rock but I love everything from Schubert to Kellerkind), sports (big fan of football and baseball), reading (recently going through a French classics phase)
+- 🌱 I’m currently learning the very basics of python (complete newbie)
 - 💞️ I’m looking to collaborate on my main job in the AM team and I'd love to learn a bit about product management
 - 📫 How to reach me slack/mail
 
